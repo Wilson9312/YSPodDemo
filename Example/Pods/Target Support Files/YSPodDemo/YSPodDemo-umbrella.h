@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "YSPodView.h"
 
 FOUNDATION_EXPORT double YSPodDemoVersionNumber;
 FOUNDATION_EXPORT const unsigned char YSPodDemoVersionString[];

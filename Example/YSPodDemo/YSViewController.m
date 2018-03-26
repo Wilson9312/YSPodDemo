@@ -7,6 +7,7 @@
 //
 
 #import "YSViewController.h"
+#import <YSPodDemo/YSPodView.h>
 
 @interface YSViewController ()
 

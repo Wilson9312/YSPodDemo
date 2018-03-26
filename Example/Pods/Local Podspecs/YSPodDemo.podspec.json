@@ -1,8 +1,8 @@
 {
   "name": "YSPodDemo",
   "version": "0.1.0",
-  "summary": "A short description of YSPodDemo.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "Creating my first CocoaPod.",
+  "description": "Here is a long description of YSPodDemo.",
   "homepage": "https://github.com/Wilson9312/YSPodDemo",
   "license": {
     "type": "MIT",
