@@ -1,0 +1,6 @@
+framework module YSPodDemo {
+  umbrella header "YSPodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
